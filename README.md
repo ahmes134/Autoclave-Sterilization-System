@@ -8,16 +8,16 @@ This project taught me the fundamentals of design and problem-solving. Through t
 
 ### Technical Skills
 
-> *Python
+> Python
 
-> *Autodesk Inventor
+> Autodesk Inventor
 
-> *Granta 
+> Granta 
 
-> *Problem-solving
+> Problem-solving
 
 ### Non-Technical Skills
 
-> *Communication
+> Communication
 
-> *Team-work
+> Team-work
