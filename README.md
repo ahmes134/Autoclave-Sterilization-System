@@ -20,4 +20,4 @@ This project taught me the fundamentals of design and problem-solving. Through t
 
 > Communication
 
-> Team-work
+> Teamwork
